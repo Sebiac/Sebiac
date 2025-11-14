@@ -8,7 +8,7 @@
 
 ---
 
-<br><br>
+
 <pre>
   
 ### 🚀 Sobre mí
@@ -16,7 +16,7 @@ Soy un estudiante de informática con interés en construir soluciones que mezcl
 Disfruto aprender, experimentar con nuevas herramientas y crear proyectos que aporten al mundo educativo y digital.  
   
 </pre>
-<br><br>
+
 
 ---
 
