@@ -29,21 +29,18 @@ Disfruto aprender, experimentar con nuevas herramientas y crear proyectos que ap
 <img src="https://github.com/Sebiac/Sebiac/blob/main/assets/icons/python.png" alt="python" width="240" hight="50">
 <img src="https://github.com/Sebiac/Sebiac/blob/main/assets/icons/ai.png" alt="AI" width="240" hight="50">
 <img src="https://github.com/Sebiac/Sebiac/blob/main/assets/icons/pc.png" alt="pc" width="240" hight="50">
-</br>
+
 <img src="https://github.com/Sebiac/Sebiac/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 <img src="https://github.com/Sebiac/Sebiac/blob/main/assets/icons/datascience.png" alt="visualstudio_code" width="240" hight="50">
 <img src="https://github.com/Sebiac/Sebiac/blob/main/assets/icons/intellij.png" alt="pc" width="240" hight="50">
-</br>
-</p>
+
+
 
 
 <br><br>
-<pre>
 ### 🧩 Algunos de mis proyectos
 🔸 **[Midnight Phonk Movil](https://github.com/GoguX76/Midnight-Phonk-Movil.git)** – App móvil para la creación y venta de instrumentos Phonk (Kotlin) <br>
 🔸 **[Midnight Phonk](https://github.com/GoguX76/FSII-Project-React.git)** – Aplicación Web para la creación y venta de instrumentos Phonk (React, JavaScript, CSS) <br>
-  
-</pre>
 <br><br>
 ---
 
